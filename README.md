@@ -1,12 +1,11 @@
 # 真人的正面提示词
 (RAW photo, 4k, realistic, exquisitely detailed skin), masterpiece, best quality, official art, unity 8k wallpaper, ultra detailed,(dark night), cinematic look,cowboy shot, natural skin texture, extremely realistic skin texture, finely detailed face,sunset,(film grain:1.2)(cinematic angle) 1girl, slim body, narrow waist, high ponytail, white t-shirt, Washed ripped flared jeans, white converse sneakers, backpack, dynatic pose, Sitting by the basketball court, watching a basketball game, ((sunset)), taiwan, summer, excited, happy, 1990s \(style\), vivid illumination, masterful technique, harmonious composition, cinematic lighting, immersive atmosphere, exceptional detail, stunning visuals,  
-> 翻译
-(RAW照片，4k，逼真，精致细致的皮肤)，精品，质量上乘，官方美术，统一8k壁纸，超细致，(黑夜)，电影般的外观，牛仔拍摄，自然的皮肤纹理，极其逼真的皮肤纹理，精细的脸部，日落，(电影纹理:1.2)(电影角度)1女孩，苗条的身材，细腰，高马尾，白色t恤，水洗破洞喇叭牛仔裤，白色匡威运动鞋，双肩包，动感的姿势，坐在篮球场旁，看篮球比赛，((日落))，台湾，夏天，兴奋，快乐，90年代\(style\)，生动的照明，精湛的技术，和谐的构图，电影般的灯光，沉浸式的氛围，卓越的细节，惊人的视觉效果，
+>(RAW照片，4k，逼真，精致细致的皮肤)，精品，质量上乘，官方美术，统一8k壁纸，超细致，(黑夜)，电影般的外观，牛仔拍摄，自然的皮肤纹理，极其逼真的皮肤纹理，精细的脸部，日落，(电影纹理:1.2)(电影角度)1女孩，苗条的身材，细腰，高马尾，白色t恤，水洗破洞喇叭牛仔裤，白色匡威运动鞋，双肩包，动感的姿势，坐在篮球场旁，看篮球比赛，((日落))，台湾，夏天，兴奋，快乐，90年代\(style\)，生动的照明，精湛的技术，和谐的构图，电影般的灯光，沉浸式的氛围，卓越的细节，惊人的视觉效果，
 1girl,((wearing headphones:1)),((earphone:1.2)), (((music player machine))), high ponytail hair, night, dynamic pose, (denim shorts, sweater hoodie), solo, cityscape, official art, unity 8k wallpaper, ultra detailed, beautiful and aesthetic, masterpiece,best quality, neon,CyberpunkAI 
-> 翻译
+
 1个女孩，((戴耳机:1))，((耳机:1.2))，((音乐播放器:1.2))，高马尾辫，夜间，动态姿势，(牛仔短裤，毛衣卫衣)，独奏，城市景观，官方艺术，统一8k壁纸，超细节，美观，杰作，最佳品质，霓虹灯，赛博朋克
 (best quality, masterpiece:1.4), absurdres, ultra-detailed CG, 8k, high detailed, beautiful face, detailed face, 1girl,chlid, solo, , Sv4,((eyewear on hair,sliver hair,purple gloves,narrow waist,short shorts, full body)),toned, shiny skin,purple lighting,hackish, head tilt, standing still, ((grey background)), bloom, light particles, depth of field, cowboy shot, straight-on,
-> 翻译
+
 (最好的质量，名作:1.4)，荒诞，超细节CG, 8k，高细节，美丽的脸，细节的脸，1个女孩，小孩，独身，，Sv4，((戴在头发上的眼镜，银发，紫色手套，窄腰，短裤，全身)))，调色，有光泽的皮肤，紫色灯光，hackish，头倾斜，站立不动，((灰色背景))，花，光粒子，景深，牛仔镜头，直上，
 反向词
 
