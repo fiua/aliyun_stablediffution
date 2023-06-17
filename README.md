@@ -101,3 +101,6 @@ https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger
 	敦煌https://huggingface.co/fiua/dunhuang/resolve/main/dunhuang_v20.safetensors
 	龙https://huggingface.co/fiua/Realdragons/resolve/main/dragon_real_base_V1.safetensors
 	漫转真https://huggingface.co/TrynaBeGood/hipoly/resolve/main/hipoly3DModelLora_v20.safetensors
+
+## 扩展更新更换地址
+>https://gitee.com/akegarasu/sd-webui-extensions/raw/master/index.json
