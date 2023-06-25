@@ -76,31 +76,31 @@ unreal engine rendered (虚幻引擎渲染)
 
 # huggingface中下载的模型和lora
 ### sd:	wget   -O /mnt/workspace/stable-diffusion-webui/models/Stable-diffusion/
-	https://huggingface.co/ckpt/xxmix9realistic/resolve/main/xxmix9realistic_v30.safetensors
-	no majicMIX reverie
-	https://huggingface.co/ximso/majicMIX_sombre/resolve/main/majicmixSombre_v20.safetensors
-	https://huggingface.co/KSD2023/Nyan_Mix_230303_absurd2/resolve/main/nyanMix_230303Absurd2.safetensors
-	https://huggingface.co/philz1337/majicmixlux/resolve/main/majicmixLux_v2.safetensors
-	https://huggingface.co/xiaofujie/AWPainting/resolve/main/AWPainting_v1.0.safetensors
-	https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0.safetensors
-	https://huggingface.co/GlennQuagmire/DisillusionMix3/resolve/main/disillusionmix_3.safetensors
- 	https://huggingface.co/HAttORi/ToonYou/resolve/main/toonyou_beta3.safetensors
- 	https://huggingface.co/phoenix-1708/perfect-world/resolve/main/perfectWorld_v4Baked.safetensors
+	- https://huggingface.co/ckpt/xxmix9realistic/resolve/main/xxmix9realistic_v30.safetensors
+	- no majicMIX reverie
+	- https://huggingface.co/ximso/majicMIX_sombre/resolve/main/majicmixSombre_v20.safetensors
+	- https://huggingface.co/KSD2023/Nyan_Mix_230303_absurd2/resolve/main/nyanMix_230303Absurd2.safetensors
+	- https://huggingface.co/philz1337/majicmixlux/resolve/main/majicmixLux_v2.safetensors
+	- https://huggingface.co/xiaofujie/AWPainting/resolve/main/AWPainting_v1.0.safetensors
+	- https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0.safetensors
+	- https://huggingface.co/GlennQuagmire/DisillusionMix3/resolve/main/disillusionmix_3.safetensors
+ 	- https://huggingface.co/HAttORi/ToonYou/resolve/main/toonyou_beta3.safetensors
+ 	- https://huggingface.co/phoenix-1708/perfect-world/resolve/main/perfectWorld_v4Baked.safetensors
 ### vae:   wget  -O /mnt/workspace/stable-diffusion-webui/models/VAE/
-	https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
-	https://huggingface.co/gsdf/Counterfeit-V2.5/resolve/main/Counterfeit-V2.5.vae.pt
+	- https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+	- https://huggingface.co/gsdf/Counterfeit-V2.5/resolve/main/Counterfeit-V2.5.vae.pt
 
 ### lora:  wget  -O /mnt/workspace/stable-diffusion-webui/models/Lora/
-	墨心https://huggingface.co/simhuangxi/MoXin/resolve/main/MoXinV1.safetensors
-	神子https://huggingface.co/datamonet/Yae_Miko_Realistic_Genshin_LORA/resolve/main/yaeMikoRealistic_yaemikoFull.safetensors
-	汉服https://huggingface.co/liaoliaojun/hanfu/resolve/main/hanfu_v30.safetensors
-	时尚摄影 https://huggingface.co/emmajoanne/loras/resolve/main/FashionMagazineStyle_v1.safetensors
-	灵动优雅，张力尽显https://huggingface.co/fiua/NijiExpressive_v2/resolve/main/NijiExpressV2.safetensors
-	水https://huggingface.co/fiua/WaterBased/resolve/main/WaterBAsed.safetensors
-	偽日光https://huggingface.co/fiua/daylight/resolve/main/%5BLoConLoRA%5D%20pseudo-daylight%E5%81%BD%E6%97%A5%E5%85%89%20Concept.safetensors
-	敦煌https://huggingface.co/fiua/dunhuang/resolve/main/dunhuang_v20.safetensors
-	龙https://huggingface.co/fiua/Realdragons/resolve/main/dragon_real_base_V1.safetensors
-	漫转真https://huggingface.co/TrynaBeGood/hipoly/resolve/main/hipoly3DModelLora_v20.safetensors
+	- 墨心https://huggingface.co/simhuangxi/MoXin/resolve/main/MoXinV1.safetensors
+	- 神子https://huggingface.co/datamonet/Yae_Miko_Realistic_Genshin_LORA/resolve/main/yaeMikoRealistic_yaemikoFull.safetensors
+	- 汉服https://huggingface.co/liaoliaojun/hanfu/resolve/main/hanfu_v30.safetensors
+	- 时尚摄影 https://huggingface.co/emmajoanne/loras/resolve/main/FashionMagazineStyle_v1.safetensors
+	- 灵动优雅，张力尽显https://huggingface.co/fiua/NijiExpressive_v2/resolve/main/NijiExpressV2.safetensors
+	- 水https://huggingface.co/fiua/WaterBased/resolve/main/WaterBAsed.safetensors
+	- 偽日光https://huggingface.co/fiua/daylight/resolve/main/%5BLoConLoRA%5D%20pseudo-daylight%E5%81%BD%E6%97%A5%E5%85%89%20Concept.safetensors
+	- 敦煌https://huggingface.co/fiua/dunhuang/resolve/main/dunhuang_v20.safetensors
+	- 龙https://huggingface.co/fiua/Realdragons/resolve/main/dragon_real_base_V1.safetensors
+	- 漫转真https://huggingface.co/TrynaBeGood/hipoly/resolve/main/hipoly3DModelLora_v20.safetensors
 
 ## 扩展更新更换地址
 >https://gitee.com/akegarasu/sd-webui-extensions/raw/master/index.json
