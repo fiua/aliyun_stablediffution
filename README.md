@@ -64,15 +64,15 @@ extremely detailed cG unity 8k wallpaper(超精细的8K Unity游戏CG)
 unreal engine rendered (虚幻引擎渲染)
 
 # gitcode插件
-https://gitcode.net/ranting8323/a1111-sd-webui-tagcomplete
+- https://gitcode.net/ranting8323/a1111-sd-webui-tagcomplete
 
-https://gitcode.net/overbill1683/stable-diffusion-webui-localization-zh_Hans
+- https://gitcode.net/overbill1683/stable-diffusion-webui-localization-zh_Hans
 
-https://gitcode.net/ranting8323/sd-webui-additional-networks
+- https://gitcode.net/ranting8323/sd-webui-additional-networks
 
-https://gitcode.net/ranting8323/sd-webui-infinite-image-browsing
+- https://gitcode.net/ranting8323/sd-webui-infinite-image-browsing
 
-https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger
+- https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger
 
 # huggingface中下载的模型和lora
 ### sd:	wget   -O /mnt/workspace/stable-diffusion-webui/models/Stable-diffusion/
