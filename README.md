@@ -102,6 +102,7 @@ unreal engine rendered (虚幻引擎渲染)
 	- 龙https://huggingface.co/fiua/Realdragons/resolve/main/dragon_real_base_V1.safetensors
 	- 漫转真https://huggingface.co/TrynaBeGood/hipoly/resolve/main/hipoly3DModelLora_v20.safetensors
  	- 细节https://huggingface.co/OedoSoldier/detail-tweaker-lora/resolve/main/add_detail.safetensors
+  	-从裤裆看https://huggingface.co/hiyukiya/povFacesitting_v10/resolve/main/povFacesitting_v10.safetensors
 
 ## 扩展更新更换地址
 >https://gitee.com/akegarasu/sd-webui-extensions/raw/master/index.json
